@@ -1,0 +1,222 @@
+,language,age,share_flat,flatmates,animals,relationship,clean_satisfaction,clean_outsource,schedule_tool,task_rotation,tasks,shared_expenses,alone_all,use_app,feature_task,feature_expenses,feature_reports,feature_calendar,feature_shoplist,task_Buying common items,task_Cleaning bathroom/toilets,task_Cleaning kitchen,task_Cleaning living-room,task_Cleaning windows,task_Laundry,task_Throwing the garbage
+0,English,25–30,Yes,3,Cats,Acquaintances,3.0,No,We just remember,Once a week,"Cleaning living-room, Cleaning kitchen, Cleaning windows, Cleaning bathroom/toilets, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,Yes,Very likely,Very likely,Very likely,Very likely,Very likely,1,1,1,1,1,1,1
+1,English,18–24,Yes,2,No pets,"Friends, Family",4.0,No,White board on the fridge door,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Throwing the garbage, Buying common items",Buy it in turns,All together,Yes,Likely,Very likely,Very likely,Likely,Very likely,1,1,1,1,0,0,1
+2,English,25–30,Yes,3,No pets,"Friends, Family",3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+3,English,25–30,Yes,4,No pets,"Friends, Family",4.0,No,We don't schedule our tasks,Never,"Cleaning living-room, Cleaning kitchen, Cleaning windows, Cleaning bathroom/toilets, Throwing the garbage, Laundry, Buying common items",We don't really think about it,Alone,No,,,,,,1,1,1,1,1,1,1
+4,English,25–30,Yes,2,No pets,"Friends, Family",4.0,No,We don't schedule our tasks,Once a month,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Throwing the garbage, Laundry, Buying common items",Split the cost,All together,Yes,Neutral,Very likely,Very likely,Likely,Very likely,1,1,1,1,0,1,1
+5,English,18–24,Yes,2,Cats,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+6,English,31–37,Yes,4,Dogs,"Friends, Family",5.0,No,We just remember,Never,"Cleaning living-room, Cleaning kitchen, Cleaning windows, Cleaning bathroom/toilets, Throwing the garbage, Laundry, Buying common items",Buy it in turns,Alone,Yes,Unlikely,Very likely,Unlikely,Unlikely,Neutral,1,1,1,1,1,1,1
+7,English,More than 37,Yes,3,No pets,Acquaintances,5.0,No,We just remember,Once a week,"Cleaning living-room, Cleaning kitchen, Cleaning windows, Cleaning bathroom/toilets, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,No,,,,,,1,1,1,1,1,1,1
+8,English,25–30,Yes,3,No pets,"Friends, Family",4.0,No,We don't schedule our tasks,Never,"Cleaning bathroom/toilets, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,No,,,,,,1,1,0,0,0,1,1
+9,English,25–30,Yes,3,No pets,Acquaintances,3.0,No,White board on the fridge door,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows",Split the cost,Alone,Yes,Likely,Very likely,Likely,Very likely,Very likely,0,1,1,1,1,0,0
+10,English,25–30,Yes,4,No pets,Other,3.0,No,Spreadsheet,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen",Split the cost,Alone,Yes,Very likely,Very likely,Likely,Likely,Very likely,0,1,1,1,0,0,0
+11,English,18–24,Yes,3,Dogs,"Friends, Family",1.0,No,We don't schedule our tasks,Once a month,"Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Buying common items",Split the cost,All together,No,,,,,,1,0,1,1,1,0,1
+12,English,18–24,Yes,3,No pets,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+13,English,18–24,Yes,5,No pets,People I met on app,4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+14,English,25–30,Yes,5,No pets,Acquaintances,2.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+15,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+16,Italian,,No,2,No pets,"Friends, Family",5.0,No,We just remember,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Laundry, Buying common items",I buy my own stuff,Alone,Yes,Neutral,Neutral,Neutral,Neutral,Likely,1,1,1,1,1,1,0
+17,English,25–30,Yes,3,No pets,People I met on app,4.0,No,We just remember,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,Yes,Very likely,Very likely,Likely,Likely,Likely,1,1,1,1,0,1,1
+18,English,18–24,Yes,4,No pets,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+19,English,25–30,Yes,5,No pets,People I met on app,5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+20,English,25–30,Yes,2,No pets,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+21,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+22,English,18–24,Yes,4,Dogs,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+23,English,25–30,Yes,3,No pets,"Friends, Family",2.0,No,We just remember,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,Yes,Likely,Very likely,Likely,Very likely,Likely,1,1,1,1,1,1,1
+24,English,18–24,Yes,4,No pets,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+25,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+26,English,25–30,Yes,4,Dogs,"Friends, Family",3.0,No,We just remember,Never,Throwing the garbage,I buy my own stuff,Alone,No,,,,,,0,0,0,0,0,0,1
+27,Italian,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+28,English,25–30,Yes,3,No pets,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+29,English,25–30,Yes,2,Dogs,"Friends, Family",3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+30,English,18–24,Yes,4,Cats,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+31,Italian,More than 37,Yes,4,Cats,"Friends, family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+32,English,25–30,Yes,3,No pets,"Friends, Family",5.0,No,We don't schedule our tasks,Once a week,Cleaning kitchen,Split the cost,All together,No,,,,,,0,0,1,0,0,0,0
+33,Italian,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+34,English,18–24,Yes,4,No pets,"Friends, Family",4.0,No,We don't schedule our tasks,Never,"Cleaning bathroom/toilets, Throwing the garbage",We don't really think about it,Alone,No,,,,,,0,1,0,0,0,0,1
+35,English,25–30,Yes,2,No pets,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+36,English,31–37,Yes,2,No pets,Acquaintances,2.0,No,We don't schedule our tasks,Never,"Cleaning bathroom/toilets, Cleaning kitchen",Split the cost,Alone,No,,,,,,0,1,1,0,0,0,0
+37,English,31–37,Yes,2,No pets,"Friends, Family",4.0,No,We just remember,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,No,,,,,,1,1,1,1,1,1,1
+38,English,18–24,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+39,English,18–24,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+40,English,25–30,Yes,3,No pets,"Friends, Family",3.0,No,Spreadsheet,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Laundry, Buying common items",Split the cost,Alone,No,,,,,,1,1,1,1,0,1,0
+41,English,31–37,Yes,4,No pets,People I met on app,4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+42,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+43,Spanish,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+44,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+45,English,More than 37,Yes,3,No pets,"Friends, Family",3.0,No,Todoist,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,Yes,Very likely,Very likely,Very likely,Very likely,Likely,1,1,1,1,1,1,1
+46,English,25–30,Yes,3,No pets,"Friends, Family",4.0,No,White board on the fridge door,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Buying common items",Split the cost,Alone,No,,,,,,1,1,1,1,0,0,0
+47,English,18–24,Yes,2,No pets,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+48,English,31–37,Yes,3,No pets,"Friends, Family",5.0,No,Spreadsheet,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",Split the cost,All together,No,,,,,,1,1,1,1,1,1,1
+49,Spanish,25–30,Yes,3,No pets,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+50,Spanish,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+51,Spanish,More than 37,Yes,4,Dogs,Acquaintances,2.0,No,We just remember,Once a week,Cleaning living-room,Buy it in turns,Alone,Yes,Very likely,Very likely,Very likely,Very likely,Very likely,0,0,0,1,0,0,0
+52,English,25–30,Yes,4,No pets,"Friends, Family",4.0,No,We don't schedule our tasks,Never,"Cleaning kitchen, Throwing the garbage, Buying common items",Buy it in turns,Alone,No,,,,,,1,0,1,0,0,0,1
+53,French,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+54,French,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+55,French,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+56,English,25–30,Yes,2,No pets,"Friends, Family",4.0,No,We just remember,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",Buy it in turns,Alone,No,,,,,,1,1,1,1,1,1,1
+57,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+58,French,31–37,Yes,2,Cats,Acquaintances,2.0,No,We don't schedule our tasks,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",We don't really think about it,Alone,Yes,Likely,Likely,Likely,Likely,Likely,1,1,1,1,1,1,1
+59,Spanish,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+60,French,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+61,English,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+62,English,More than 37,Yes,3,Cats,Acquaintances,4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+63,English,25–30,Yes,4,No pets,People I met on app,3.0,No,Spreadsheet,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Throwing the garbage, Buying common items",Split the cost,Alone,Yes,Likely,Likely,Likely,Likely,Likely,1,1,1,1,0,0,1
+64,French,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+65,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+66,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+67,English,31–37,Yes,4,Dogs,"Friends, Family",5.0,No,We just remember,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Throwing the garbage, Buying common items",Split the cost,Alone,No,,,,,,1,1,0,1,0,0,1
+68,English,More than 37,Yes,5,Dogs,"Friends, Family",5.0,No,We just remember,Once a week,Cleaning bathroom/toilets,Split the cost,Alone,No,,,,,,0,1,0,0,0,0,0
+69,English,18–24,Yes,3,No pets,"Friends, Family",3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+70,French,18–24,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+71,English,More than 37,Yes,3,No pets,People I met on app,2.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+72,English,31–37,Yes,2,Dogs,"Friends, Family",4.0,No,We just remember,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows",Split the cost,All together,No,,,,,,0,1,1,1,1,0,0
+73,English,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+74,English,31–37,Yes,2,Cats,"Friends, Family",4.0,No,We just remember,Once a month,"Throwing the garbage, Buying common items",Split the cost,All together,No,,,,,,1,0,0,0,0,0,1
+75,English,31–37,Yes,2,No pets,Partner,4.0,No,We don't schedule our tasks,Once a week,"Cleaning bathroom/toilets, Cleaning kitchen, Throwing the garbage",Split the cost,Alone,No,,,,,,0,1,1,0,0,0,1
+76,English,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+77,English,31–37,Yes,2,No pets,"Friends, Family",5.0,No,We just remember,Never,"Cleaning living-room, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,No,,,,,,1,0,0,1,0,1,1
+78,English,31–37,Yes,3,No pets,Acquaintances,5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+79,English,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+80,Italian,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+81,English,25–30,Yes,3,No pets,"Friends, Family",3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+82,English,More than 37,Yes,2,Dogs,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+83,English,31–37,Yes,4,No pets,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+84,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+85,English,31–37,Yes,4,No pets,"Friends, Family",4.0,No,White board on the fridge door,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Buying common items",Split the cost,Alone,No,,,,,,1,1,1,1,1,0,0
+86,English,25–30,Yes,2,No pets,Partner,3.0,No,We don't schedule our tasks,Never,"Cleaning living-room, Cleaning kitchen",Split the cost,All together,No,,,,,,0,0,1,1,0,0,0
+87,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+88,English,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+89,French,25–30,Yes,4,No pets,Acquaintances,3.0,No,White board on the fridge door,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,No,,,,,,1,1,1,1,0,1,1
+90,English,25–30,Yes,2,No pets,"Friends, Family",3.0,No,We just remember,Twice a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Laundry",Buy it in turns,Alone,No,,,,,,0,1,1,1,0,1,0
+91,English,31–37,Yes,2,No pets,"Friends, Family",3.0,No,We just remember,Never,"Cleaning kitchen, Throwing the garbage, Laundry, Buying common items",We don't really think about it,Alone,No,,,,,,1,0,1,0,0,1,1
+92,English,25–30,Yes,2,No pets,"Friends, Family",5.0,No,We don't schedule our tasks,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,No,,,,,,1,1,1,1,1,1,1
+93,English,More than 37,Yes,3,Dogs,"Friends, Family",3.0,No,White board on the fridge door,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Laundry",Buy it in turns,All together,Yes,Very unlikely,Unlikely,Very unlikely,Unlikely,Very unlikely,0,1,1,1,1,1,0
+94,English,31–37,Yes,2,No pets,Partner,4.0,No,We don't schedule our tasks,Once a week,"Cleaning bathroom/toilets, Throwing the garbage, Laundry, Buying common items",Split the cost,All together,Yes,Neutral,Neutral,Neutral,Neutral,Neutral,1,1,0,0,0,1,1
+95,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+96,English,18–24,Yes,3,No pets,People I met on app,3.0,No,Spreadsheet,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen",Split the cost,Alone,Yes,Likely,Likely,Likely,Very likely,Very likely,0,1,1,1,0,0,0
+97,English,31–37,Yes,3,No pets,"Friends, Family",4.0,No,Spreadsheet,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,No,,,,,,1,1,1,1,0,1,1
+98,Spanish,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+99,English,More than 37,Yes,2,No pets,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+100,French,25–30,Yes,2,Cats,"Friends, Family",3.0,No,We don't schedule our tasks,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",We don't really think about it,Alone,No,,,,,,1,1,1,1,1,1,1
+101,English,25–30,Yes,2,No pets,"Friends, Family",4.0,No,We just remember,Twice a week,"Cleaning living-room, Cleaning kitchen, Throwing the garbage, Buying common items",We don't really think about it,Alone,Yes,Likely,Very likely,Very likely,Very likely,Very likely,1,0,1,1,0,0,1
+102,English,18–24,Yes,3,No pets,"Friends, Family",3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+103,English,25–30,Yes,2,Cats,"Friends, Family",3.0,No,We just remember,Twice a week,"Cleaning kitchen, Laundry, Buying common items",We don't really think about it,Alone,Yes,Likely,Likely,Neutral,Likely,Likely,1,0,1,0,0,1,0
+104,English,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+105,English,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+106,English,More than 37,Yes,4,Dogs,"Friends, Family",2.0,No,We don't schedule our tasks,Twice a week,"Cleaning bathroom/toilets, Throwing the garbage, Laundry",Split the cost,All together,No,,,,,,0,1,0,0,0,1,1
+107,Italian,More than 37,Yes,2,No pets,"Friends, Family",4.0,No,We don't schedule our tasks,Twice a week,"Cleaning kitchen, Cleaning bathroom/toilets, Buying common items",We don't really think about it,Alone,No,,,,,,1,1,1,0,0,0,0
+108,Italian,More than 37,Yes,2,No pets,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+109,Italian,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+110,French,18–24,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+111,Italian,31–37,Yes,3,Cats,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+112,Italian,25–30,Yes,More than 5,No pets,Acquaintances,2.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+113,English,18–24,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+114,English,18–24,Yes,3,No pets,"Friends, Family",3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+115,English,18–24,Yes,3,Cats,"Friends, Family",5.0,No,We just remember,Twice a month,"Cleaning bathroom/toilets, Cleaning living-room, Laundry",We don't really think about it,Alone,Yes,Neutral,Very likely,Likely,Likely,Likely,0,1,0,1,0,1,0
+116,French,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+117,French,More than 37,Yes,2,Cats,"Friends, Family",5.0,No,We don't schedule our tasks,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Buying common items",We don't really think about it,Alone,No,,,,,,1,1,1,1,1,0,0
+118,English,31–37,Yes,4,No pets,"Friends, Family",3.0,No,We just remember,Twice a week,"Cleaning living-room, Cleaning kitchen, Throwing the garbage, Buying common items",We don't really think about it,Alone,No,,,,,,1,0,1,1,0,0,1
+119,English,18–24,Yes,4,No pets,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+120,English,25–30,Yes,4,Dogs,People I met on app,3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+121,English,More than 37,Yes,3,Dogs,"Friends, Family",3.0,No,We just remember,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Buying common items",Split the cost,Alone,No,,,,,,1,1,1,1,1,0,1
+122,Italian,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+123,English,25–30,Yes,4,No pets,People I met on app,3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+124,English,More than 37,Yes,2,No pets,"Friends, Family",4.0,No,Spreadsheet,Once a week,"Cleaning kitchen, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,No,,,,,,1,0,1,0,0,1,1
+125,English,25–30,Yes,2,No pets,Partner,4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+126,French,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+127,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+128,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+129,English,18–24,Yes,3,No pets,People I met on app,3.0,No,Spreadsheet,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen",Split the cost,Alone,Yes,Likely,Likely,Likely,Very likely,Very likely,0,1,1,1,0,0,0
+130,English,More than 37,Yes,3,Dogs,People I met on app,3.0,No,We just remember,Once a week,"Cleaning bathroom/toilets, Cleaning kitchen, Throwing the garbage, Buying common items",We don't really think about it,Alone,No,,,,,,1,1,1,0,0,0,1
+131,English,18–24,Yes,4,Cats,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+132,Italian,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+133,Italian,25–30,Yes,5,No pets,"Friends, Family",2.0,Yes,,,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Laundry, Buying common items",,,,,,,,,1,1,1,1,1,1,0
+134,English,25–30,Yes,2,Cats,"Friends, Family",4.0,No,We just remember,Twice a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Throwing the garbage, Laundry, Buying common items",Buy it in turns,Alone,No,,,,,,1,1,1,1,0,1,1
+135,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+136,Italian,25–30,Yes,2,Cats,Partner,5.0,No,We don't schedule our tasks,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Laundry, Buying common items",Buy it in turns,Alone,No,,,,,,1,1,1,1,1,1,0
+137,English,25–30,Yes,3,No pets,"Friends, Family",3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+138,Italian,More than 37,Yes,2,Cats,"Friends, Family",4.0,No,We don't schedule our tasks,Twice a week,"Cleaning kitchen, Cleaning bathroom/toilets, Laundry, Buying common items",We don't really think about it,Alone,Yes,Neutral,Neutral,Neutral,Neutral,Neutral,1,1,1,0,0,1,0
+139,French,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+140,French,18–24,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+141,English,25–30,Yes,3,No pets,"Friends, Family",3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+142,Spanish,18–24,Yes,4,No pets,People I met on app,4.0,Yes,We don't schedule our tasks,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",We don't really think about it,Alone,Yes,Very likely,Very likely,Very likely,Very unlikely,Very likely,1,1,1,1,1,1,1
+143,Italian,More than 37,Yes,2,Cats,"Friends, Family",3.0,No,We don't schedule our tasks,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Laundry, Buying common items",We don't really think about it,All together,Yes,Very likely,Neutral,Very unlikely,Very likely,Very likely,1,1,1,1,1,1,0
+144,French,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+145,English,31–37,Yes,2,No pets,"Friends, Family",4.0,No,We just remember,Never,"Cleaning living-room, Cleaning kitchen, Throwing the garbage, Laundry",Split the cost,All together,No,,,,,,0,0,1,1,0,1,1
+146,French,25–30,Yes,2,Cats,"Friends, Family",4.0,No,We just remember,Never,"Cleaning kitchen, Laundry, Buying common items",We don't really think about it,Alone,No,,,,,,1,0,1,0,0,1,0
+147,French,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+148,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+149,Italian,31–37,Yes,3,Dogs,People I met on app,4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+150,Italian,31–37,Yes,3,No pets,"Friends, Family",3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+151,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+152,English,31–37,Yes,3,No pets,Acquaintances,4.0,No,White board on the fridge door,Once a week,"Cleaning kitchen, Buying common items, Cleaning kitchen, Cleaning bathroom/toilets",Buy it in turns,Alone,Yes,Very likely,Likely,Likely,Very likely,Likely,1,1,1,0,0,0,0
+153,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+154,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+155,Italian,More than 37,Yes,2,Dogs,Partner,4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+156,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+157,Italian,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+158,Italian,More than 37,Yes,2,Cats,"Friends, Family",4.0,No,We don't schedule our tasks,Twice a week,"Cleaning kitchen, Cleaning bathroom/toilets, Laundry, Buying common items",We don't really think about it,Alone,Yes,Neutral,Neutral,Neutral,Neutral,Neutral,1,1,1,0,0,1,0
+159,English,18–24,Yes,3,Dogs,"Friends, Family",5.0,No,We just remember,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",Buy it in turns,Alone,Yes,Very likely,Very likely,Likely,Likely,Very likely,1,1,1,1,1,1,1
+160,Spanish,25–30,Yes,3,No pets,People I met on app,3.0,No,White board on the fridge door,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Throwing the garbage, Laundry, Buying common items",We don't really think about it,All together,No,Very likely,Very likely,Neutral,Likely,Very likely,1,1,0,1,0,1,1
+161,French,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+162,Italian,More than 37,Yes,3,Dogs,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+163,English,31–37,Yes,2,No pets,Acquaintances,4.0,No,We just remember,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",We don't really think about it,All together,Yes,Very unlikely,Likely,Very unlikely,Very unlikely,Unlikely,1,1,1,1,1,1,1
+164,English,31–37,Yes,2,No pets,Acquaintances,4.0,No,We just remember,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",We don't really think about it,All together,Yes,Very unlikely,Likely,Very unlikely,Very unlikely,Unlikely,1,1,1,1,1,1,1
+165,English,25–30,Yes,3,No pets,Acquaintances,5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+166,Spanish,25–30,Yes,2,Dogs,People I met on app,2.0,No,White board on the fridge door,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",We don't really think about it,All together,No,Neutral,Very likely,Neutral,Likely,Very likely,1,1,1,1,1,1,1
+167,French,18–24,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+168,English,31–37,Yes,3,Cats,People I met on app,3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+169,English,31–37,Yes,4,No pets,Acquaintances,2.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+170,French,31–37,Yes,3,Cats,"Friends, Family",3.0,No,We don't schedule our tasks,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",Buy it in turns,Alone,Yes,Neutral,Likely,Likely,Very likely,Very unlikely,1,1,1,1,1,1,1
+171,Spanish,18–24,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+172,English,18–24,Yes,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+173,English,25–30,Yes,2,No pets,"Friends, Family",4.0,No,We don't schedule our tasks,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",We don't really think about it,All together,No,,,,,,1,1,1,1,1,1,1
+174,Italian,More than 37,Yes,2,Cats,"Friends, Family",4.0,No,We don't schedule our tasks,Twice a week,"Cleaning kitchen, Cleaning bathroom/toilets, Laundry, Buying common items",We don't really think about it,Alone,Yes,Neutral,Neutral,Neutral,Neutral,Neutral,1,1,1,0,0,1,0
+175,English,31–37,Yes,3,Cats,"Friends, Family",3.0,No,White board on the fridge door,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Buying common items",Split the cost,Alone,No,,,,,,1,1,1,1,1,0,1
+176,Spanish,More than 37,Yes,3,Cats,"Friends, Family",5.0,No,We just remember,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Throwing the garbage",Split the cost,Alone,Yes,Likely,Likely,Neutral,Very likely,Neutral,0,1,1,1,0,0,1
+177,French,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+178,Italian,More than 37,Yes,2,Cats,"Friends, Family",4.0,No,We don't schedule our tasks,Twice a week,"Cleaning kitchen, Cleaning bathroom/toilets, Laundry, Buying common items",We don't really think about it,Alone,Yes,Neutral,Neutral,Neutral,Neutral,Neutral,1,1,1,0,0,1,0
+179,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+180,English,25–30,Yes,4,No pets,"Friends, Family",4.0,No,We just remember,Once a week,"Cleaning living-room, Cleaning kitchen, Throwing the garbage",Split the cost,All together,Yes,Very likely,Very likely,Very likely,Very likely,Very likely,0,0,1,1,0,0,1
+181,English,More than 37,Yes,4,No pets,"Friends, Family",3.0,No,We don't schedule our tasks,Once a week,Cleaning bathroom/toilets,Buy it in turns,Alone,No,,,,,,0,1,0,0,0,0,0
+182,French,25–30,Yes,4,No pets,Acquaintances,3.0,No,We don't schedule our tasks,Never,"Cleaning kitchen, Buying common items",Split the cost,Alone,No,,,,,,1,0,1,0,0,0,0
+183,Spanish,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+184,Spanish,25–30,Yes,2,Cats,Partner,3.0,No,We just remember,Once a week,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Laundry, Buying common items",Split the cost,Alone,Yes,Neutral,Neutral,Likely,Very likely,Very likely,1,1,1,1,1,1,1
+185,French,25–30,Yes,3,No pets,People I met on app,3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+186,Italian,18–24,Yes,4,No pets,People I met on app,3.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+187,English,More than 37,Yes,2,Dogs,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+188,French,25–30,Yes,5,No pets,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+189,Spanish,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+190,Spanish,More than 37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+191,English,25–30,Yes,2,Cats,"Friends, Family",3.0,No,We just remember,Once a week,"Cleaning living-room, Cleaning kitchen, Throwing the garbage, Laundry, Buying common items",Split the cost,All together,Yes,Likely,Very likely,Neutral,Likely,Very likely,1,0,1,1,0,1,1
+192,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+193,English,31–37,Yes,3,Cats,Acquaintances,5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+194,English,25–30,Yes,2,Dogs,"Friends, Family",4.0,No,Trello,Once a week,Cleaning living-room,We don't really think about it,All together,Yes,Very likely,Very likely,Neutral,Very unlikely,Very likely,0,0,0,1,0,0,0
+195,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+196,English,More than 37,Yes,3,Dogs,"Friends, Family",3.0,No,We just remember,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning kitchen, Cleaning windows, Throwing the garbage, Buying common items",Split the cost,Alone,No,,,,,,1,1,1,1,1,0,1
+197,French,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+198,French,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+199,French,18–24,Yes,2,No pets,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+200,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+201,English,18–24,Yes,2,No pets,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+202,Spanish,More than 37,Yes,2,Dogs,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+203,English,More than 37,Yes,2,Dogs,"Friends, Family",5.0,No,We just remember,Never,"Cleaning bathroom/toilets, Cleaning living-room, Cleaning windows, Throwing the garbage, Laundry, Buying common items",We don't really think about it,Alone,No,,,,,,1,1,0,1,1,1,1
+204,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+205,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+206,English,25–30,Yes,3,Dogs,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+207,English,25–30,Yes,4,No pets,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+208,English,31–37,Yes,2,Cats,"Friends, Family",5.0,No,We don't schedule our tasks,Never,"Cleaning bathroom/toilets, Cleaning kitchen, Cleaning windows, Buying common items",Split the cost,All together,Yes,Neutral,Very likely,Neutral,Likely,Very likely,1,1,1,0,1,0,0
+209,English,25–30,Yes,2,Dogs,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+210,English,31–37,Yes,3,Dogs,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+211,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+212,English,18–24,Yes,3,No pets,"Friends, Family",4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+213,English,31–37,Yes,3,Dogs,"Friends, Family",5.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+214,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+215,English,18–24,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+216,English,25–30,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+217,English,25–30,Yes,2,Dogs,Other,4.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+218,English,31–37,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+219,English,18–24,Yes,3,No pets,"Friends, Family",2.0,Yes,,,,,,,,,,,,0,0,0,0,0,0,0
+220,English,18–24,No,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
